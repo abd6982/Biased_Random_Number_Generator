@@ -44,7 +44,7 @@ Now the probability of generating a large number is 75% and of small number is 2
 
 ## How to use
 
-Clone the repository. Run the *rand-test.py* file. The *rand-gen* file contains two functions - rand() which generates random values and calculate_ratio() which calculates the fraction of large and small numbers generated. Provide inputs in the following format:
+Clone the repository. Run the *rand-test.py* file. The *randgen.py* file contains two functions - rand() which generates random values and calculate_ratio() which calculates the fraction of large and small numbers generated. Provide inputs in the following format:
 
 The first three arguments are upper_limit, lower_limit and the number_of_randoms. Fourth is the optional seed argument.
 
